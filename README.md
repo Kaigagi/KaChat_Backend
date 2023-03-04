@@ -20,9 +20,9 @@ https://drive.google.com/file/d/13LAiCU-MrzmI47lLxReru4XZHCyYLWs8/view?usp=shari
 
 ### Plan on each features (generate on progress):
 #### Users will be able to create and manage their profile.
-- Create endpoints for CRUD of user entity
-- Verify users using JWT token
-- Add security features where users can either verify their email or reset their passwords
+- [ ] Create endpoints for CRUD of user entity
+- [ ] Verify users using JWT token
+- [ ] Add security features where users can either verify their email or reset their passwords
 
 ### Convention
 #### Folder structure
